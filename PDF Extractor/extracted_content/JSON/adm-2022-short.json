@@ -1,0 +1,368 @@
+{
+  "document_metadata": {
+    "filename": "adm-2022-short.pdf",
+    "total_pages": 3,
+    "extraction_timestamp": "2025-06-04T01:42:45.344654Z",
+    "file_size": "0.6MB",
+    "file_type": "pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "content_type": "table_and_image",
+      "text_content": {
+        "title": "",
+        "sections": [
+          {
+            "subtitle": "In progress",
+            "content": "12/31/2025 2020 results"
+          },
+          {
+            "subtitle": "In progress",
+            "content": "12/31/2025 2020 results"
+          },
+          {
+            "subtitle": "In progress",
+            "content": "12/31/2030 structure"
+          },
+          {
+            "subtitle": "In progress",
+            "content": "Assess and disclose salient human rights 12/31/2023"
+          },
+          {
+            "subtitle": "In progress",
+            "content": "Ongoing human rights policy that is fully aligned with ADM Human Rights Policy"
+          },
+          {
+            "subtitle": "In progress",
+            "content": "Ongoing conducting human rights due diligence"
+          }
+        ],
+        "main_text": ""
+      },
+      "tables": [
+        {
+          "table_id": "page_0_pdfplumber_table_0",
+          "headers": [
+            "Column_1",
+            "Column_2",
+            "SDG ALIGNMENT"
+          ],
+          "rows": [
+            {
+              "Column_1": "Workplace Safety",
+              "Column_2": "12/31/2025\n50% reduction in Total Recordable Incident Rate (TRIR) from In progress\n2020 results\n0% reduction",
+              "SDG ALIGNMENT": ""
+            },
+            {
+              "Column_1": "",
+              "Column_2": "12/31/2025\n50% reduction in Lost Workday Incident Rate (LWIR) from In progress\n2020 results\n4.5% reduction",
+              "SDG ALIGNMENT": ""
+            },
+            {
+              "Column_1": "Gender Parity",
+              "Column_2": "12/31/2030\nAchieve 50% gender parity among ADM’s senior leadership In progress\nstructure\n28%",
+              "SDG ALIGNMENT": ""
+            },
+            {
+              "Column_1": "Human Rights",
+              "Column_2": "Assess and disclose salient human rights 12/31/2023\nIn progress",
+              "SDG ALIGNMENT": ""
+            },
+            {
+              "Column_1": "",
+              "Column_2": "Ongoing\n100% of palm volumes sourced from direct suppliers with a In progress\nhuman rights policy that is fully aligned with ADM Human\nRights Policy\n98.65%",
+              "SDG ALIGNMENT": ""
+            },
+            {
+              "Column_1": "",
+              "Column_2": "Ongoing\n100% of palm volumes sourced from direct suppliers In progress\nconducting human rights due diligence\n99.48%",
+              "SDG ALIGNMENT": ""
+            }
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "images": [
+        {
+          "image_id": "page_0_img_0",
+          "description": "light rectangular simple image",
+          "position": "embedded",
+          "estimated_size": "32x35",
+          "file_path": "extracted_content/images/adm-2022-short_page_0_img_0.png",
+          "metadata": {
+            "width": 32,
+            "height": 35,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:44.980158",
+            "page_number": 1
+          }
+        },
+        {
+          "image_id": "page_0_img_1",
+          "description": "medium-toned rectangular diagram or chart",
+          "position": "embedded",
+          "estimated_size": "328x556",
+          "file_path": "extracted_content/images/adm-2022-short_page_0_img_1.png",
+          "metadata": {
+            "width": 328,
+            "height": 556,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:44.992001",
+            "page_number": 1
+          }
+        },
+        {
+          "image_id": "page_0_img_2",
+          "description": "medium-toned wide landscape simple image",
+          "position": "embedded",
+          "estimated_size": "125x29",
+          "file_path": "extracted_content/images/adm-2022-short_page_0_img_2.png",
+          "metadata": {
+            "width": 125,
+            "height": 29,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:44.993085",
+            "page_number": 1
+          }
+        },
+        {
+          "image_id": "page_0_img_3",
+          "description": "medium-toned wide landscape simple image",
+          "position": "embedded",
+          "estimated_size": "2400x15",
+          "file_path": "extracted_content/images/adm-2022-short_page_0_img_3.png",
+          "metadata": {
+            "width": 2400,
+            "height": 15,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:44.994736",
+            "page_number": 1
+          }
+        }
+      ],
+      "consolidated_content": {
+        "full_text": "In progress: 12/31/2025 2020 results In progress: 12/31/2025 2020 results In progress: 12/31/2030 structure In progress: Assess and disclose salient human rights 12/31/2023 In progress: Ongoing human rights policy that is fully aligned with ADM Human Rights Policy In progress: Ongoing conducting human rights due diligence",
+        "tables_summary": "Table with columns: Column_1, Column_2, SDG ALIGNMENT. Row 1: Column_1: Workplace Safety; Column_2: 12/31/2025\n50% reduction in Total Recordable Incident Rate (TRIR) from In progress\n2020 results\n0% reduction. Row 2: Column_2: 12/31/2025\n50% reduction in Lost Workday Incident Rate (LWIR) from In progress\n2020 results\n4.5% reduction. Row 3: Column_1: Gender Parity; Column_2: 12/31/2030\nAchieve 50% gender parity among ADM’s senior leadership In progress\nstructure\n28%. ... and 3 more rows.",
+        "searchable_content": "In progress: 12/31/2025 2020 results In progress: 12/31/2025 2020 results In progress: 12/31/2030 structure In progress: Assess and disclose salient human rights 12/31/2023 In progress: Ongoing human rights policy that is fully aligned with ADM Human Rights Policy In progress: Ongoing conducting human rights due diligence Table with columns: Column_1, Column_2, SDG ALIGNMENT. Row 1: Column_1: Workplace Safety; Column_2: 12/31/2025\n50% reduction in Total Recordable Incident Rate (TRIR) from In progress\n2020 results\n0% reduction. Row 2: Column_2: 12/31/2025\n50% reduction in Lost Workday Incident Rate (LWIR) from In progress\n2020 results\n4.5% reduction. Row 3: Column_1: Gender Parity; Column_2: 12/31/2030\nAchieve 50% gender parity among ADM’s senior leadership In progress\nstructure\n28%. ... and 3 more rows."
+      }
+    },
+    {
+      "page_number": 2,
+      "content_type": "text_and_image",
+      "text_content": {
+        "title": "Climate",
+        "sections": [
+          {
+            "subtitle": "27",
+            "content": "Recently, the Intergovernmental Panel on Climate Change (IPCC) released their sixth synthesis report with straightforward statements and dire warnings. The evidence is clear: if we do not act now, the planet will experience irreversible and catastrophic changes to ecosystems around the world, jeopardizing the people and wildlife depending on them. But there is also hope – promising low-carbon technologies, carbon removal through photosynthesis, ambitious national commitments, and support for community adaptations, as well as increased funding, can impact the degree to which the Earth experiences warming and climate change impacts."
+          }
+        ],
+        "main_text": ""
+      },
+      "tables": [],
+      "images": [
+        {
+          "image_id": "page_1_img_0",
+          "description": "medium-toned rectangular diagram or chart",
+          "position": "embedded",
+          "estimated_size": "2409x1263",
+          "file_path": "extracted_content/images/adm-2022-short_page_1_img_0.png",
+          "metadata": {
+            "width": 2409,
+            "height": 1263,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:45.230518",
+            "page_number": 2
+          }
+        },
+        {
+          "image_id": "page_1_img_1",
+          "description": "medium-toned wide landscape simple image",
+          "position": "embedded",
+          "estimated_size": "125x29",
+          "file_path": "extracted_content/images/adm-2022-short_page_1_img_1.png",
+          "metadata": {
+            "width": 125,
+            "height": 29,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:45.231537",
+            "page_number": 2
+          }
+        },
+        {
+          "image_id": "page_1_img_2",
+          "description": "light rectangular simple image",
+          "position": "embedded",
+          "estimated_size": "1320x696",
+          "file_path": "extracted_content/images/adm-2022-short_page_1_img_2.png",
+          "metadata": {
+            "width": 1320,
+            "height": 696,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:45.258193",
+            "page_number": 2
+          }
+        },
+        {
+          "image_id": "page_1_img_3",
+          "description": "medium-toned wide landscape simple image",
+          "position": "embedded",
+          "estimated_size": "2400x15",
+          "file_path": "extracted_content/images/adm-2022-short_page_1_img_3.png",
+          "metadata": {
+            "width": 2400,
+            "height": 15,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:45.259758",
+            "page_number": 2
+          }
+        }
+      ],
+      "consolidated_content": {
+        "full_text": "Title: Climate 27: Recently, the Intergovernmental Panel on Climate Change (IPCC) released their sixth synthesis report with straightforward statements and dire warnings. The evidence is clear: if we do not act now, the planet will experience irreversible and catastrophic changes to ecosystems around the world, jeopardizing the people and wildlife depending on them. But there is also hope – promising low-carbon technologies, carbon removal through photosynthesis, ambitious national commitments, and support for community adaptations, as well as increased funding, can impact the degree to which the Earth experiences warming and climate change impacts.",
+        "searchable_content": "Title: Climate 27: Recently, the Intergovernmental Panel on Climate Change (IPCC) released their sixth synthesis report with straightforward statements and dire warnings. The evidence is clear: if we do not act now, the planet will experience irreversible and catastrophic changes to ecosystems around the world, jeopardizing the people and wildlife depending on them. But there is also hope – promising low-carbon technologies, carbon removal through photosynthesis, ambitious national commitments, and support for community adaptations, as well as increased funding, can impact the degree to which the Earth experiences warming and climate change impacts."
+      }
+    },
+    {
+      "page_number": 3,
+      "content_type": "text_and_image",
+      "text_content": {
+        "title": "Human Rights",
+        "sections": [
+          {
+            "subtitle": "39",
+            "content": "At ADM, we are committed to doing business with integrity. We believe in paving the way with good business practices, progressive solutions, and mindful actions that make a positive impact. We actively work to protect human rights in our operations and supply chains, taking actions that make a measurable, sustainable difference for communities and ecosystems around the world. While governments have the primary duty to protect and ensure the fulfillment of human rights, we have a role to play in protecting human rights in our operations, our supply chains, and the communities where we operate. We have the opportunity to enact change globally, and our 2022 efforts demonstrate our commitment to protect human rights throughout our supply chains."
+          },
+          {
+            "subtitle": "Supply Chain Due Diligence",
+            "content": "Working with our suppliers to assess and address risks increases transparency and enables collaboration to protect human rights throughout our supply chain. Supply chain due diligence is a critical component of our Human Rights program, and strategically engaging with our supply chain takes three steps: mapping, risk assessment, and mitigation strategies. For more detailed information, please view our most recent Human Rights Report ."
+          },
+          {
+            "subtitle": "Risk Assessment",
+            "content": "ADM has vast and varied supply chains. Our A successful supply chain due diligence program requires effective risk mitigation We use many tools to assess the risks in our supply origination team procures raw commodities, such as strategies. We are working to engage with our strategic suppliers on their chains. Using knowledge of origin of supply, we can corn, soybeans, wheat, and softseeds from all over the sustainability programs, as well as ensure compliance with our policies and future calculate commodity-geography specific risk ratings to world. Our procurement team sources ingredients and due diligence regulatory requirements. Our mitigation strategies are based on a identify our highest risk sourcing. Using industry-leading indirect supplies needed to run our operations. We have supplier’s risk rating and can include the use of sustainability self-assessment tools and platforms, we are able to standardize risk been working for several years to assess our origination questionnaires, contractual assurances, and social compliance auditing. ranking and scoring mechanisms, evaluate specific risks footprint and the risks associated with those within different supply chains, monitor news and press, We have developed sourcing protocols for some high-risk goods and materials. For commodities and geographies. Our dashboard contains and ensure proper focus on salient human rights risks. A example, we require all of our direct palm suppliers to have a human rights policy KPIs related to traceability. combination of internal and third-party tools allows us aligned with ours and to implement a human rights due diligence program to to comprehensively assess risk across business units. In 2022, we began mapping our ingredient supply chains ensure compliance with the policy. In addition, over the past year, we have been to country of origin, successfully mapping over 90% of working with our legal team to include language in supply contracts that suppliers our Human Nutrition business ingredient procurement. must abide by our Supplier Expectations, including our Human Rights Policy. These That number continues to grow as we work diligently to suppliers have the understanding that business relationships can be terminated assess our supply chains and continue engaging with our upon discovery of human rights violations. suppliers."
+          }
+        ],
+        "main_text": ""
+      },
+      "tables": [],
+      "images": [
+        {
+          "image_id": "page_2_img_0",
+          "description": "medium-toned wide landscape simple image",
+          "position": "embedded",
+          "estimated_size": "125x29",
+          "file_path": "extracted_content/images/adm-2022-short_page_2_img_0.png",
+          "metadata": {
+            "width": 125,
+            "height": 29,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:45.287439",
+            "page_number": 3
+          }
+        },
+        {
+          "image_id": "page_2_img_1",
+          "description": "light rectangular simple image",
+          "position": "embedded",
+          "estimated_size": "74x87",
+          "file_path": "extracted_content/images/adm-2022-short_page_2_img_1.png",
+          "metadata": {
+            "width": 74,
+            "height": 87,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:45.287883",
+            "page_number": 3
+          }
+        },
+        {
+          "image_id": "page_2_img_2",
+          "description": "medium-toned rectangular simple image",
+          "position": "embedded",
+          "estimated_size": "101x91",
+          "file_path": "extracted_content/images/adm-2022-short_page_2_img_2.png",
+          "metadata": {
+            "width": 101,
+            "height": 91,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:45.288884",
+            "page_number": 3
+          }
+        },
+        {
+          "image_id": "page_2_img_3",
+          "description": "medium-toned rectangular diagram or chart",
+          "position": "embedded",
+          "estimated_size": "108x96",
+          "file_path": "extracted_content/images/adm-2022-short_page_2_img_3.png",
+          "metadata": {
+            "width": 108,
+            "height": 96,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:45.290100",
+            "page_number": 3
+          }
+        },
+        {
+          "image_id": "page_2_img_4",
+          "description": "medium-toned wide landscape simple image",
+          "position": "embedded",
+          "estimated_size": "2400x15",
+          "file_path": "extracted_content/images/adm-2022-short_page_2_img_4.png",
+          "metadata": {
+            "width": 2400,
+            "height": 15,
+            "colorspace": "DeviceRGB",
+            "source_document": "adm-2022-short.pdf",
+            "source_document_full_path": "PDFS/adm-2022-short.pdf",
+            "extraction_timestamp": "2025-06-04T01:42:45.291419",
+            "page_number": 3
+          }
+        }
+      ],
+      "consolidated_content": {
+        "full_text": "Title: Human Rights 39: At ADM, we are committed to doing business with integrity. We believe in paving the way with good business practices, progressive solutions, and mindful actions that make a positive impact. We actively work to protect human rights in our operations and supply chains, taking actions that make a measurable, sustainable difference for communities and ecosystems around the world. While governments have the primary duty to protect and ensure the fulfillment of human rights, we have a role to play in protecting human rights in our operations, our supply chains, and the communities where we operate. We have the opportunity to enact change globally, and our 2022 efforts demonstrate our commitment to protect human rights throughout our supply chains. Supply Chain Due Diligence: Working with our suppliers to assess and address risks increases transparency and enables collaboration to protect human rights throughout our supply chain. Supply chain due diligence is a critical component of our Human Rights program, and strategically engaging with our supply chain takes three steps: mapping, risk assessment, and mitigation strategies. For more detailed information, please view our most recent Human Rights Report . Risk Assessment: ADM has vast and varied supply chains. Our A successful supply chain due diligence program requires effective risk mitigation We use many tools to assess the risks in our supply origination team procures raw commodities, such as strategies. We are working to engage with our strategic suppliers on their chains. Using knowledge of origin of supply, we can corn, soybeans, wheat, and softseeds from all over the sustainability programs, as well as ensure compliance with our policies and future calculate commodity-geography specific risk ratings to world. Our procurement team sources ingredients and due diligence regulatory requirements. Our mitigation strategies are based on a identify our highest risk sourcing. Using industry-leading indirect supplies needed to run our operations. We have supplier’s risk rating and can include the use of sustainability self-assessment tools and platforms, we are able to standardize risk been working for several years to assess our origination questionnaires, contractual assurances, and social compliance auditing. ranking and scoring mechanisms, evaluate specific risks footprint and the risks associated with those within different supply chains, monitor news and press, We have developed sourcing protocols for some high-risk goods and materials. For commodities and geographies. Our dashboard contains and ensure proper focus on salient human rights risks. A example, we require all of our direct palm suppliers to have a human rights policy KPIs related to traceability. combination of internal and third-party tools allows us aligned with ours and to implement a human rights due diligence program to to comprehensively assess risk across business units. In 2022, we began mapping our ingredient supply chains ensure compliance with the policy. In addition, over the past year, we have been to country of origin, successfully mapping over 90% of working with our legal team to include language in supply contracts that suppliers our Human Nutrition business ingredient procurement. must abide by our Supplier Expectations, including our Human Rights Policy. These That number continues to grow as we work diligently to suppliers have the understanding that business relationships can be terminated assess our supply chains and continue engaging with our upon discovery of human rights violations. suppliers.",
+        "searchable_content": "Title: Human Rights 39: At ADM, we are committed to doing business with integrity. We believe in paving the way with good business practices, progressive solutions, and mindful actions that make a positive impact. We actively work to protect human rights in our operations and supply chains, taking actions that make a measurable, sustainable difference for communities and ecosystems around the world. While governments have the primary duty to protect and ensure the fulfillment of human rights, we have a role to play in protecting human rights in our operations, our supply chains, and the communities where we operate. We have the opportunity to enact change globally, and our 2022 efforts demonstrate our commitment to protect human rights throughout our supply chains. Supply Chain Due Diligence: Working with our suppliers to assess and address risks increases transparency and enables collaboration to protect human rights throughout our supply chain. Supply chain due diligence is a critical component of our Human Rights program, and strategically engaging with our supply chain takes three steps: mapping, risk assessment, and mitigation strategies. For more detailed information, please view our most recent Human Rights Report . Risk Assessment: ADM has vast and varied supply chains. Our A successful supply chain due diligence program requires effective risk mitigation We use many tools to assess the risks in our supply origination team procures raw commodities, such as strategies. We are working to engage with our strategic suppliers on their chains. Using knowledge of origin of supply, we can corn, soybeans, wheat, and softseeds from all over the sustainability programs, as well as ensure compliance with our policies and future calculate commodity-geography specific risk ratings to world. Our procurement team sources ingredients and due diligence regulatory requirements. Our mitigation strategies are based on a identify our highest risk sourcing. Using industry-leading indirect supplies needed to run our operations. We have supplier’s risk rating and can include the use of sustainability self-assessment tools and platforms, we are able to standardize risk been working for several years to assess our origination questionnaires, contractual assurances, and social compliance auditing. ranking and scoring mechanisms, evaluate specific risks footprint and the risks associated with those within different supply chains, monitor news and press, We have developed sourcing protocols for some high-risk goods and materials. For commodities and geographies. Our dashboard contains and ensure proper focus on salient human rights risks. A example, we require all of our direct palm suppliers to have a human rights policy KPIs related to traceability. combination of internal and third-party tools allows us aligned with ours and to implement a human rights due diligence program to to comprehensively assess risk across business units. In 2022, we began mapping our ingredient supply chains ensure compliance with the policy. In addition, over the past year, we have been to country of origin, successfully mapping over 90% of working with our legal team to include language in supply contracts that suppliers our Human Nutrition business ingredient procurement. must abide by our Supplier Expectations, including our Human Rights Policy. These That number continues to grow as we work diligently to suppliers have the understanding that business relationships can be terminated assess our supply chains and continue engaging with our upon discovery of human rights violations. suppliers."
+      }
+    }
+  ],
+  "summary": {
+    "total_tables": 1,
+    "total_images": 13,
+    "main_topics": [
+      "Climate",
+      "Human Rights"
+    ],
+    "key_metrics": [
+      "Column_2: 12/31/2025\n50% reduction in Total Recordable Incident Rate (TRIR) from In progress\n2020 results\n0% reduction",
+      "Column_2: 12/31/2025\n50% reduction in Lost Workday Incident Rate (LWIR) from In progress\n2020 results\n4.5% reduction",
+      "Column_2: 12/31/2030\nAchieve 50% gender parity among ADM’s senior leadership In progress\nstructure\n28%",
+      "Column_2: Ongoing\n100% of palm volumes sourced from direct suppliers with a In progress\nhuman rights policy that is fully aligned with ADM Human\nRights Policy\n98.65%",
+      "Column_2: Ongoing\n100% of palm volumes sourced from direct suppliers In progress\nconducting human rights due diligence\n99.48%"
+    ]
+  }
+}
